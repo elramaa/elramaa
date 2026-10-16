@@ -51,7 +51,8 @@ Soon to be added.
 ### Never forget, I'm also a Competitive Programmer!
 I'm mainly active grinding my problem solving skills on Codeforces using <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" valign="middle" height="22" /> as my main and preferred language for Competitive Programming.
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=elrama&theme=dracula&border_color=666&disable_animations=true)
+![Codeforces Card](https://cp-insights-elr-version.vercel.app/api/profile?handle=elrama&theme=dark&heatmap=true)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=elrama&theme=dracula&bg_color=101018&border_color=222&disable_animations=true)
 
 ---
 
